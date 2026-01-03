@@ -1,2 +1,1 @@
-# git
-inicializacion con git
+
